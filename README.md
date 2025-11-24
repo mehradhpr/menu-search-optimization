@@ -2,7 +2,7 @@
 
 A Survey research to find the optimal depth of menus for user interfaces.
 
-## Please see Menu Search Optimization.pdf for detailed explaination.
+## Please see `Menu Search Optimization.pdf` for detailed explaination.
 
 Console output log format:
 <the menu item's name>, <Elapsed Time>
